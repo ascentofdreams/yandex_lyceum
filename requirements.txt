@@ -1,0 +1,6 @@
+sqlite3
+csv
+xlsxwriter
+openpyxl
+Pillow
+PyQt6
